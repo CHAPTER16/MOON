@@ -1,17 +1,17 @@
 10664u0_a664 ME 
 
-10272u0_a272   X3 paid 10day 5day 
+10272u0_a272   X3 paid 10day 6day 
 
-10286u0_a286   nga chit paid 10day  4day
+10286u0_a286   nga chit paid 10day  5day
 
-10281u0_a281   nga sai paid 20day  4day
+10281u0_a281   nga sai paid 20day  5day
 
-10613u0_a613   Haruto paid 5day 3day
+10613u0_a613   Haruto paid 5day 2day
 
-10565u0_a565   ko phyo paid 20day 5FREE  2day
+10565u0_a565   ko phyo paid 20day 5FREE  3day
 
 
-10304u0_a304   3day FREE. 2
-10255u0_a255   3day FREE  2
-11355u0_a1355  3day FREE  2
+10304u0_a304   3day FREE. 3
+10255u0_a255   3day FREE  3
+11355u0_a1355  3day FREE  3
 10444u0_a444   free   2
