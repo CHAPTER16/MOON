@@ -1,10 +1,8 @@
 10664u0_a664 ME 
 
 
-10286u0_a286   nga chit paid 10day  9day
+10286u0_a286   nga chit paid 10day  10day
 
-10281u0_a281   nga sai paid 20day  9day
+10281u0_a281   nga sai paid 20day  11day
 
-10613u0_a613   Haruto paid 5day 9day
-
-10565u0_a565   ko phyo paid 20day 5FREE  9day
+10565u0_a565   ko phyo paid 20day 5FREE  11day
